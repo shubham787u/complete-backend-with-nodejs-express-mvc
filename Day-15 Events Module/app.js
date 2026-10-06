@@ -22,7 +22,7 @@ event.on("logout", (fn, ln) => {
 //!====================================================
 
 // event.removeAllListeners();
-event.removeListener();
+//! event.removeListener();--------------
 
 event.emit("login", "Dinga");
 event.emit("logout", "Dinga");

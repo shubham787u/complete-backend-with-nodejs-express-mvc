@@ -118,3 +118,4 @@ The path module is a built-in Node.js tool that helps you work with file and fol
 8. **path.isAbsolute():** Checks if a path is absolute.
 9. **path.normalize():** path.normalize() cleans a path string by resolving . and .. segments and removing extra separators, returning a simplified path.
 
+## Note Point by self --
